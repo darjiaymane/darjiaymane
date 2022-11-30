@@ -4,12 +4,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darjiaymane&label=Profile%20views&color=0e75b6&style=flat" alt="darjiaymane" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darjiaymane" alt="darjiaymane" /></a> </p>
+<!-- 
+- 🔭 I’m currently working on [Youfood](https://youfood-fixers.netlify.app/) -->
 
-- 🔭 I’m currently working on [Youfood](https://youfood-fixers.netlify.app/)
+- 🌱 I’m currently learning **JAVA, SpringBoot**
 
-- 🌱 I’m currently learning **PHP OOP,**
-
-- 💬 Ask me about **PHP, JavaScript (basics), HTML, CSS and Bootstrap**
+- 💬 Ask me about **PHP, JavaScript (basics), HTML, CSS and Bootstrap, JAVA, JPA, JEE, SpringBoot, Hibernate**
 
 - 📫 How to reach me **aymanedarji7@gmail.com**
 
