@@ -7,9 +7,9 @@
 <!-- 
 - 🔭 I’m currently working on [Youfood](https://youfood-fixers.netlify.app/) -->
 
-- 🌱 I’m currently learning **JAVA, SpringBoot**
+- 🌱 I’m currently learning **Salesforce**
 
-- 💬 Ask me about **PHP, JavaScript (basics), HTML, CSS and Bootstrap, JAVA, JPA, JEE, SpringBoot, Hibernate**
+- 💬 Ask me about **Salesforce, PHP, JavaScript (basics), HTML, CSS and Bootstrap, JAVA, JPA, JEE, SpringBoot, Hibernate**
 
 - 📫 How to reach me **aymanedarji7@gmail.com**
 
@@ -19,7 +19,6 @@
 <p align="left">
 <a href="https://twitter.com/darjiaymane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="darjiaymane" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/darji aymane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darji aymane" height="30" width="40" /></a>
-<a href="https://instagram.com/darji aymane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="darji aymane" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/darji aymane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="darji aymane" height="30" width="40" /></a>
 </p>
 
